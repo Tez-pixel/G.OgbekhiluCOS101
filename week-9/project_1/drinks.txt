@@ -1,0 +1,20 @@
+Categories Of Drinks
+
+Lager:
+- Star
+- Heineken
+- Gulder
+- Goldberg
+- Desperados
+- 33 Export
+
+Stout:
+- Legend
+- Turbo King
+- Williams
+
+Non-Alcoholic:
+- Maltina
+- Amstel Malta
+- Malta Gold
+- Fayrouz
