@@ -1,0 +1,22 @@
+Convicted Commisioners
+
+Name_of_commisioner:
+- Aigbogun Alamba Daudu
+- Murtala Afeez Bendu
+- Okorocha Calistus Ogbona
+- Adewale Jimoh Akanbi
+- Osazuwa Faith Etieye
+
+Ministry:
+- Internal Affairs
+- Justice
+- Defense
+- Power & Steel
+- Petroleum
+
+Geopolitical_zone:
+- South West
+- North East
+- South South
+- South West
+- South East
