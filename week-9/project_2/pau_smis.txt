@@ -1,0 +1,29 @@
+Variations Of Students Information
+
+Student_name:
+- Oluchi Mordi
+- Adams Aliyu
+- Shania Bolade
+- Adekunle Gold
+- Blanca Edemoh
+
+Matric_number:
+- ACC10211111
+- ECO10110101
+- CSC10328828
+- EEE11020202
+- MEE10202001
+
+Department:
+- Accounting
+- Economics
+- Computer
+- Electrical
+- Mechanical
+
+Level:
+- 300
+- 100
+- 200
+- 200
+- 100
